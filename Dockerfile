@@ -1,6 +1,6 @@
 FROM php:7.1.6-fpm-alpine
 
-MAINTAINER JohnWang <wangjiajun@vchangyi.com>
+MAINTAINER Biglazy <qihongchuan@vchangyi.com>
 
 ENV php_conf /usr/local/etc/php-fpm.conf
 ENV fpm_conf /usr/local/etc/php-fpm.d/www.conf
